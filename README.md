@@ -1,4 +1,4 @@
-# Farm Management Applicaion
+# Farm Management Application
  A farm management application with concurrent client-server model using TCP/IP socket programming. (2021)
 
 ---
